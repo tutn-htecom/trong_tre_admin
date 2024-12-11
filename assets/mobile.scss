@@ -1,0 +1,102 @@
+@media (min-width: 1000px) {
+    .theme--light.v-navigation-drawer {
+        // width: 348px!important;
+    }
+    .v-main {
+        padding: 64px 0px 36px 348px;
+    }
+}
+
+@media (min-width: 750px) {
+    .d-none-desktop {
+        display: block !important;
+    }
+    .ps-close-bar {
+        display: none;
+    }
+
+    .search2 {
+        display: none;
+    }
+}
+
+@media (max-width: 750px) {
+    .d-none-mobile {
+        display: block !important;
+    }
+    .dashboard-alanysis > * {
+        padding: 0 13px 0 0 !important;
+        margin: 0;
+    }
+    .dashboard-alanysis {
+        h3 {
+            font-size: 22px;
+        }
+        .svg {
+            width: 68px;
+            height: 68px;
+        }
+    }
+    .m0-mobile {
+        margin: 0 !important;
+    }
+    .web-form-reivew .row-make {
+        max-width: 245px !important;
+    }
+    .web-form-reivew .m-h {
+        max-height: 188px !important;
+    }
+    .web-hr {
+        border-top: 1.5px solid #e5e5e5;
+        margin-bottom: 24px;
+        margin-top: 20px !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .filter-warp {
+        flex-wrap: wrap;
+    }
+    header {
+        height: 120px !important;
+        // border-radius: 0px 0px 20px 20px !important;
+    }
+    .content-mp {
+        padding: 67px 10px 28px 10px !important;
+    }
+    .v-toolbar__content {
+        height: 120px !important;
+    }
+    .nav-bar .v-navigation-drawer {
+        width: 100% !important;
+    }
+
+    .search1 {
+        display: none !important;
+    }
+    .search2 {
+        display: block !important;
+    }
+    // .img-avatar {
+    //     width: auto !important;
+    // }
+    .student {
+        .w-title {
+            max-width: 140px !important;
+        }
+    }
+    .student-detail {
+        .w-title {
+            max-width: 138px !important;
+        }
+        .btn-delete-form {
+            min-width: 185px;
+        }
+    }
+}
+
+@media (max-width: 400px) {
+    // .img-avatar {
+    //     width: auto !important;
+    // }
+}
