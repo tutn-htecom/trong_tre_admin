@@ -1,0 +1,80 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "ChartBarChart": {
+    "description": "Auto imported from components/Chart/BarChart.vue"
+  },
+  "ReportCustomerReport": {
+    "description": "Auto imported from components/Report/CustomerReport.vue"
+  },
+  "ReportOrderReport": {
+    "description": "Auto imported from components/Report/OrderReport.vue"
+  },
+  "ReportSalaryReport": {
+    "description": "Auto imported from components/Report/SalaryReport.vue"
+  },
+  "ReportSalesReport": {
+    "description": "Auto imported from components/Report/SalesReport.vue"
+  },
+  "ReportUserReport": {
+    "description": "Auto imported from components/Report/UserReport.vue"
+  },
+  "ButtonAdd": {
+    "description": "Auto imported from components/button/ButtonAdd.vue"
+  },
+  "ButtonComponent": {
+    "description": "Auto imported from components/button/ButtonComponent.vue"
+  },
+  "ButtonFilter": {
+    "description": "Auto imported from components/button/ButtonFilter.vue"
+  },
+  "ButtonWeb": {
+    "description": "Auto imported from components/button/ButtonWeb.vue"
+  },
+  "IconsRightSvg": {
+    "description": "Auto imported from components/icons/RightSvg.vue"
+  },
+  "InputFieldSuneditor": {
+    "description": "Auto imported from components/inputField/Suneditor.vue"
+  },
+  "CardItem": {
+    "description": "Auto imported from components/card/CardItem.vue"
+  },
+  "CardMaterials": {
+    "description": "Auto imported from components/card/CardMaterials.vue"
+  },
+  "CardResultTraining": {
+    "description": "Auto imported from components/card/CardResultTraining.vue"
+  },
+  "CardService": {
+    "description": "Auto imported from components/card/CardService.vue"
+  },
+  "CardServiceOrder": {
+    "description": "Auto imported from components/card/CardServiceOrder.vue"
+  },
+  "CardTeacherTraining": {
+    "description": "Auto imported from components/card/CardTeacherTraining.vue"
+  },
+  "CardTeacherTrainingUsers": {
+    "description": "Auto imported from components/card/CardTeacherTrainingUsers.vue"
+  },
+  "ServiceDetailServiceInfo": {
+    "description": "Auto imported from components/service/DetailServiceInfo.vue"
+  },
+  "TitleHeader": {
+    "description": "Auto imported from components/title/TitleHeader.vue"
+  },
+  "UserAvatar": {
+    "description": "Auto imported from components/user/Avatar.vue"
+  },
+  "UserAvatarSiderbar": {
+    "description": "Auto imported from components/user/AvatarSiderbar.vue"
+  }
+}

@@ -1,0 +1,723 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_2fd7c704"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_cbd766e6"
+  },
+  {
+    "name": "admin-complain",
+    "path": "/admin/complain",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/complain/index.vue",
+    "chunkName": "pages/admin/complain/index",
+    "_name": "_4d9aeef8"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/index.vue",
+    "chunkName": "pages/admin/dashboard/index",
+    "_name": "_1fe738fb"
+  },
+  {
+    "name": "admin-materials",
+    "path": "/admin/materials",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/index.vue",
+    "chunkName": "pages/admin/materials/index",
+    "_name": "_36cd1eda"
+  },
+  {
+    "name": "admin-medias",
+    "path": "/admin/medias",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/medias/index.vue",
+    "chunkName": "pages/admin/medias/index",
+    "_name": "_24203ec4"
+  },
+  {
+    "name": "admin-notification",
+    "path": "/admin/notification",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/notification/index.vue",
+    "chunkName": "pages/admin/notification/index",
+    "_name": "_4dc9827a"
+  },
+  {
+    "name": "admin-orders",
+    "path": "/admin/orders",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/orders/index.vue",
+    "chunkName": "pages/admin/orders/index",
+    "_name": "_09f7e2f4"
+  },
+  {
+    "name": "admin-parents",
+    "path": "/admin/parents",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/parents/index.vue",
+    "chunkName": "pages/admin/parents/index",
+    "_name": "_62559fa0"
+  },
+  {
+    "name": "admin-review-lesson",
+    "path": "/admin/review-lesson",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/review-lesson/index.vue",
+    "chunkName": "pages/admin/review-lesson/index",
+    "_name": "_ffa8bb18"
+  },
+  {
+    "name": "admin-service",
+    "path": "/admin/service",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/index.vue",
+    "chunkName": "pages/admin/service/index",
+    "_name": "_12107a48"
+  },
+  {
+    "name": "admin-students",
+    "path": "/admin/students",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/index.vue",
+    "chunkName": "pages/admin/students/index",
+    "_name": "_2d00c4e7"
+  },
+  {
+    "name": "admin-teacher-training",
+    "path": "/admin/teacher-training",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/teacher-training/index.vue",
+    "chunkName": "pages/admin/teacher-training/index",
+    "_name": "_f066a518"
+  },
+  {
+    "name": "admin-videos",
+    "path": "/admin/videos",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/videos/index.vue",
+    "chunkName": "pages/admin/videos/index",
+    "_name": "_15ad70b2"
+  },
+  {
+    "name": "admin-dashboard-customer_reports",
+    "path": "/admin/dashboard/customer_reports",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/customer_reports/index.vue",
+    "chunkName": "pages/admin/dashboard/customer_reports/index",
+    "_name": "_7fb08188"
+  },
+  {
+    "name": "admin-dashboard-salary",
+    "path": "/admin/dashboard/salary",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/salary/index.vue",
+    "chunkName": "pages/admin/dashboard/salary/index",
+    "_name": "_212dde98"
+  },
+  {
+    "name": "admin-dashboard-sales_report",
+    "path": "/admin/dashboard/sales_report",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/sales_report/index.vue",
+    "chunkName": "pages/admin/dashboard/sales_report/index",
+    "_name": "_2594fb31"
+  },
+  {
+    "name": "admin-dashboard-user_report",
+    "path": "/admin/dashboard/user_report",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/user_report/index.vue",
+    "chunkName": "pages/admin/dashboard/user_report/index",
+    "_name": "_70173654"
+  },
+  {
+    "name": "admin-lsm-result-training",
+    "path": "/admin/lsm/result-training",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/result-training/index.vue",
+    "chunkName": "pages/admin/lsm/result-training/index",
+    "_name": "_2e739368"
+  },
+  {
+    "name": "admin-lsm-students",
+    "path": "/admin/lsm/students",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/index.vue",
+    "chunkName": "pages/admin/lsm/students/index",
+    "_name": "_5d23c7d0"
+  },
+  {
+    "name": "admin-lsm-teacher-training",
+    "path": "/admin/lsm/teacher-training",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/index",
+    "_name": "_6016b75d"
+  },
+  {
+    "name": "admin-materials-create",
+    "path": "/admin/materials/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/create/index.vue",
+    "chunkName": "pages/admin/materials/create/index",
+    "_name": "_0bb69ece"
+  },
+  {
+    "name": "admin-materials-create_bg",
+    "path": "/admin/materials/create_bg",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/create_bg/index.vue",
+    "chunkName": "pages/admin/materials/create_bg/index",
+    "_name": "_43e1d26c"
+  },
+  {
+    "name": "admin-medias-create",
+    "path": "/admin/medias/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/medias/create/index.vue",
+    "chunkName": "pages/admin/medias/create/index",
+    "_name": "_2021c73a"
+  },
+  {
+    "name": "admin-my-notification",
+    "path": "/admin/my/notification",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/my/notification/index.vue",
+    "chunkName": "pages/admin/my/notification/index",
+    "_name": "_798fbd56"
+  },
+  {
+    "name": "admin-notification-create",
+    "path": "/admin/notification/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/notification/create/index.vue",
+    "chunkName": "pages/admin/notification/create/index",
+    "_name": "_c69e29f2"
+  },
+  {
+    "name": "admin-orders-create",
+    "path": "/admin/orders/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/orders/create/index.vue",
+    "chunkName": "pages/admin/orders/create/index",
+    "_name": "_62e5ed4d"
+  },
+  {
+    "name": "admin-review-lesson-form-review",
+    "path": "/admin/review-lesson/form-review",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/review-lesson/form-review/index.vue",
+    "chunkName": "pages/admin/review-lesson/form-review/index",
+    "_name": "_de402934"
+  },
+  {
+    "name": "admin-service-create",
+    "path": "/admin/service/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/create/index.vue",
+    "chunkName": "pages/admin/service/create/index",
+    "_name": "_19a44f36"
+  },
+  {
+    "name": "admin-students-create",
+    "path": "/admin/students/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/create/index.vue",
+    "chunkName": "pages/admin/students/create/index",
+    "_name": "_6be8f80c"
+  },
+  {
+    "name": "admin-system-about",
+    "path": "/admin/system/about",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/about/index.vue",
+    "chunkName": "pages/admin/system/about/index",
+    "_name": "_6884aabc"
+  },
+  {
+    "name": "admin-system-banner",
+    "path": "/admin/system/banner",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/banner/index.vue",
+    "chunkName": "pages/admin/system/banner/index",
+    "_name": "_6790051a"
+  },
+  {
+    "name": "admin-system-configs",
+    "path": "/admin/system/configs",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/configs/index.vue",
+    "chunkName": "pages/admin/system/configs/index",
+    "_name": "_77cecac0"
+  },
+  {
+    "name": "admin-system-educational-ecosystem",
+    "path": "/admin/system/educational-ecosystem",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/educational-ecosystem/index.vue",
+    "chunkName": "pages/admin/system/educational-ecosystem/index",
+    "_name": "_28fd3516"
+  },
+  {
+    "name": "admin-system-support",
+    "path": "/admin/system/support",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/support/index.vue",
+    "chunkName": "pages/admin/system/support/index",
+    "_name": "_1f1b577e"
+  },
+  {
+    "name": "admin-system-tax",
+    "path": "/admin/system/tax",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/tax/index.vue",
+    "chunkName": "pages/admin/system/tax/index",
+    "_name": "_0db23e5a"
+  },
+  {
+    "name": "admin-system-tutorial",
+    "path": "/admin/system/tutorial",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/tutorial/index.vue",
+    "chunkName": "pages/admin/system/tutorial/index",
+    "_name": "_600cb825"
+  },
+  {
+    "name": "admin-teacher-training-create",
+    "path": "/admin/teacher-training/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/teacher-training/create/index.vue",
+    "chunkName": "pages/admin/teacher-training/create/index",
+    "_name": "_0c9052cd"
+  },
+  {
+    "name": "admin-teacher-training-training-result",
+    "path": "/admin/teacher-training/training-result",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/teacher-training/training-result/index.vue",
+    "chunkName": "pages/admin/teacher-training/training-result/index",
+    "_name": "_7228b295"
+  },
+  {
+    "name": "admin-users-admins",
+    "path": "/admin/users/admins",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/admins/index.vue",
+    "chunkName": "pages/admin/users/admins/index",
+    "_name": "_ed314b0c"
+  },
+  {
+    "name": "admin-users-parent",
+    "path": "/admin/users/parent",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/parent/index.vue",
+    "chunkName": "pages/admin/users/parent/index",
+    "_name": "_10e2b6c0"
+  },
+  {
+    "name": "admin-users-teachers",
+    "path": "/admin/users/teachers",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/index.vue",
+    "chunkName": "pages/admin/users/teachers/index",
+    "_name": "_2e959d47"
+  },
+  {
+    "name": "admin-lsm-students-create",
+    "path": "/admin/lsm/students/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/create/index.vue",
+    "chunkName": "pages/admin/lsm/students/create/index",
+    "_name": "_0ad418f1"
+  },
+  {
+    "name": "admin-review-lesson-form-review-create",
+    "path": "/admin/review-lesson/form-review/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/review-lesson/form-review/create/index.vue",
+    "chunkName": "pages/admin/review-lesson/form-review/create/index",
+    "_name": "_12aae09b"
+  },
+  {
+    "name": "admin-users-admins-create",
+    "path": "/admin/users/admins/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/admins/create/index.vue",
+    "chunkName": "pages/admin/users/admins/create/index",
+    "_name": "_f75fd9f2"
+  },
+  {
+    "name": "admin-users-admins-roles",
+    "path": "/admin/users/admins/roles",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/admins/roles/index.vue",
+    "chunkName": "pages/admin/users/admins/roles/index",
+    "_name": "_70b5d9a8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5f26ad14"
+  },
+  {
+    "name": "admin-dashboard-salary-id",
+    "path": "/admin/dashboard/salary/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/salary/_id/index.vue",
+    "chunkName": "pages/admin/dashboard/salary/_id/index",
+    "_name": "_7522b19f"
+  },
+  {
+    "name": "admin-lsm-result-training-id",
+    "path": "/admin/lsm/result-training/:id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/result-training/_id.vue",
+    "chunkName": "pages/admin/lsm/result-training/_id",
+    "_name": "_6dc16060"
+  },
+  {
+    "name": "admin-lsm-students-id",
+    "path": "/admin/lsm/students/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/_id/index.vue",
+    "chunkName": "pages/admin/lsm/students/_id/index",
+    "_name": "_eb970a8a"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id",
+    "path": "/admin/lsm/teacher-training/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/index",
+    "_name": "_184a4870"
+  },
+  {
+    "name": "admin-materials-detail-id",
+    "path": "/admin/materials/detail/:id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/detail/_id.vue",
+    "chunkName": "pages/admin/materials/detail/_id",
+    "_name": "_5c9f61ea"
+  },
+  {
+    "name": "admin-materials-edit-id",
+    "path": "/admin/materials/edit/:id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/edit/_id.vue",
+    "chunkName": "pages/admin/materials/edit/_id",
+    "_name": "_4b554d84"
+  },
+  {
+    "name": "admin-review-lesson-form-review-id",
+    "path": "/admin/review-lesson/form-review/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/review-lesson/form-review/_id/index.vue",
+    "chunkName": "pages/admin/review-lesson/form-review/_id/index",
+    "_name": "_7568e351"
+  },
+  {
+    "name": "admin-students-edit-id",
+    "path": "/admin/students/edit/:id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/edit/_id.vue",
+    "chunkName": "pages/admin/students/edit/_id",
+    "_name": "_0838aea0"
+  },
+  {
+    "name": "admin-system-configs-id",
+    "path": "/admin/system/configs/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/system/configs/_id.vue",
+    "chunkName": "pages/admin/system/configs/_id",
+    "_name": "_744cc508"
+  },
+  {
+    "name": "admin-teacher-training-training-result-id",
+    "path": "/admin/teacher-training/training-result/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/teacher-training/training-result/_id.vue",
+    "chunkName": "pages/admin/teacher-training/training-result/_id",
+    "_name": "_4ffc563d"
+  },
+  {
+    "name": "admin-users-admins-id",
+    "path": "/admin/users/admins/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/admins/_id/index.vue",
+    "chunkName": "pages/admin/users/admins/_id/index",
+    "_name": "_208aaf36"
+  },
+  {
+    "name": "admin-users-parent-id",
+    "path": "/admin/users/parent/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/parent/_id/index.vue",
+    "chunkName": "pages/admin/users/parent/_id/index",
+    "_name": "_07446f8b"
+  },
+  {
+    "name": "admin-users-teachers-id",
+    "path": "/admin/users/teachers/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/index",
+    "_name": "_097e869c"
+  },
+  {
+    "name": "admin-lsm-students-id-detail",
+    "path": "/admin/lsm/students/:id/detail",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/_id/detail/index.vue",
+    "chunkName": "pages/admin/lsm/students/_id/detail/index",
+    "_name": "_43b668bb"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-create",
+    "path": "/admin/lsm/teacher-training/:id?/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/create/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/create/index",
+    "_name": "_20b51df9"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-create_course",
+    "path": "/admin/lsm/teacher-training/:id?/create_course",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/create_course/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/create_course/index",
+    "_name": "_cd281192"
+  },
+  {
+    "name": "admin-users-parent-id-complain",
+    "path": "/admin/users/parent/:id/complain",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/parent/_id/complain/index.vue",
+    "chunkName": "pages/admin/users/parent/_id/complain/index",
+    "_name": "_be98be7a"
+  },
+  {
+    "name": "admin-users-parent-id-history_service",
+    "path": "/admin/users/parent/:id/history_service",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/parent/_id/history_service/index.vue",
+    "chunkName": "pages/admin/users/parent/_id/history_service/index",
+    "_name": "_d7d66874"
+  },
+  {
+    "name": "admin-users-teachers-id-change-level",
+    "path": "/admin/users/teachers/:id/change-level",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/change-level/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/change-level/index",
+    "_name": "_edb4078c"
+  },
+  {
+    "name": "admin-users-teachers-id-change-service",
+    "path": "/admin/users/teachers/:id/change-service",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/change-service/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/change-service/index",
+    "_name": "_80e9392a"
+  },
+  {
+    "name": "admin-users-teachers-id-course-history",
+    "path": "/admin/users/teachers/:id/course-history",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/course-history/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/course-history/index",
+    "_name": "_ae72c396"
+  },
+  {
+    "name": "admin-users-teachers-id-edit",
+    "path": "/admin/users/teachers/:id/edit",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/edit/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/edit/index",
+    "_name": "_4be13946"
+  },
+  {
+    "name": "admin-users-teachers-id-recharge",
+    "path": "/admin/users/teachers/:id/recharge",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/recharge/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/recharge/index",
+    "_name": "_4c87f7ba"
+  },
+  {
+    "name": "admin-users-teachers-id-training-results",
+    "path": "/admin/users/teachers/:id/training-results",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/training-results/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/training-results/index",
+    "_name": "_69bf6c16"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-detail-abc",
+    "path": "/admin/lsm/teacher-training/:id?/detail/abc",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/detail/abc.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/detail/abc",
+    "_name": "_71d70f9e"
+  },
+  {
+    "name": "admin-users-teachers-id-recharge-history",
+    "path": "/admin/users/teachers/:id/recharge/history",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/recharge/history/index.vue",
+    "chunkName": "pages/admin/users/teachers/_id/recharge/history/index",
+    "_name": "_49aba7ff"
+  },
+  {
+    "name": "admin-dashboard-salary-id-create-date_l",
+    "path": "/admin/dashboard/salary/:id/create/:date_l?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/dashboard/salary/_id/create/_date_l.vue",
+    "chunkName": "pages/admin/dashboard/salary/_id/create/_date_l",
+    "_name": "_6ebc6aaa"
+  },
+  {
+    "name": "admin-lsm-students-id-detail-id_lesson",
+    "path": "/admin/lsm/students/:id/detail/:id_lesson",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/_id/detail/_id_lesson/index.vue",
+    "chunkName": "pages/admin/lsm/students/_id/detail/_id_lesson/index",
+    "_name": "_6d071747"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-detail-course_id",
+    "path": "/admin/lsm/teacher-training/:id?/detail/:course_id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/detail/_course_id/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/detail/_course_id/index",
+    "_name": "_7e9b6392"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-edit-course_id",
+    "path": "/admin/lsm/teacher-training/:id?/edit/:course_id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/edit/_course_id.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/edit/_course_id",
+    "_name": "_0b397f5b"
+  },
+  {
+    "name": "admin-users-teachers-id-training-results-results_id",
+    "path": "/admin/users/teachers/:id/training-results/:results_id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/users/teachers/_id/training-results/_results_id.vue",
+    "chunkName": "pages/admin/users/teachers/_id/training-results/_results_id",
+    "_name": "_4ed3fd32"
+  },
+  {
+    "name": "admin-lsm-students-id-detail-id_lesson-edit",
+    "path": "/admin/lsm/students/:id/detail/:id_lesson/edit",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/_id/detail/_id_lesson/edit/index.vue",
+    "chunkName": "pages/admin/lsm/students/_id/detail/_id_lesson/edit/index",
+    "_name": "_26735de8"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-detail-course_id-create",
+    "path": "/admin/lsm/teacher-training/:id?/detail/:course_id/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/detail/_course_id/create/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/detail/_course_id/create/index",
+    "_name": "_56c83eac"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-detail-course_id-teachers",
+    "path": "/admin/lsm/teacher-training/:id?/detail/:course_id/teachers",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/detail/_course_id/teachers/index.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/detail/_course_id/teachers/index",
+    "_name": "_27b5517f"
+  },
+  {
+    "name": "admin-lsm-teacher-training-id-detail-course_id-edit-id_lesson",
+    "path": "/admin/lsm/teacher-training/:id?/detail/:course_id/edit/:id_lesson",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/teacher-training/_id/detail/_course_id/edit/_id_lesson.vue",
+    "chunkName": "pages/admin/lsm/teacher-training/_id/detail/_course_id/edit/_id_lesson",
+    "_name": "_4b0604b2"
+  },
+  {
+    "name": "admin-lsm-students-id-detail-id_lesson-id_baihoc",
+    "path": "/admin/lsm/students/:id/detail/:id_lesson/:id_baihoc",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/lsm/students/_id/detail/_id_lesson/_id_baihoc/index.vue",
+    "chunkName": "pages/admin/lsm/students/_id/detail/_id_lesson/_id_baihoc/index",
+    "_name": "_d3f62116"
+  },
+  {
+    "name": "admin-complain-id",
+    "path": "/admin/complain/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/complain/_id/index.vue",
+    "chunkName": "pages/admin/complain/_id/index",
+    "_name": "_e218643a"
+  },
+  {
+    "name": "admin-orders-id",
+    "path": "/admin/orders/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/orders/_id/index.vue",
+    "chunkName": "pages/admin/orders/_id/index",
+    "_name": "_2b7e63df"
+  },
+  {
+    "name": "admin-parents-id",
+    "path": "/admin/parents/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/parents/_id/index.vue",
+    "chunkName": "pages/admin/parents/_id/index",
+    "_name": "_7a3ab31b"
+  },
+  {
+    "name": "admin-review-lesson-id",
+    "path": "/admin/review-lesson/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/review-lesson/_id/index.vue",
+    "chunkName": "pages/admin/review-lesson/_id/index",
+    "_name": "_4a733942"
+  },
+  {
+    "name": "admin-students-id",
+    "path": "/admin/students/:id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/_id/index.vue",
+    "chunkName": "pages/admin/students/_id/index",
+    "_name": "_0ae1d75c"
+  },
+  {
+    "name": "admin-materials-id-create",
+    "path": "/admin/materials/:id/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/_id/create/index.vue",
+    "chunkName": "pages/admin/materials/_id/create/index",
+    "_name": "_16eda703"
+  },
+  {
+    "name": "admin-materials-id-histories",
+    "path": "/admin/materials/:id/histories",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/_id/histories/index.vue",
+    "chunkName": "pages/admin/materials/_id/histories/index",
+    "_name": "_8d87a13e"
+  },
+  {
+    "name": "admin-medias-id-edit",
+    "path": "/admin/medias/:id/edit",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/medias/_id/edit.vue",
+    "chunkName": "pages/admin/medias/_id/edit",
+    "_name": "_430b1cba"
+  },
+  {
+    "name": "admin-orders-id-lesson",
+    "path": "/admin/orders/:id/lesson",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/orders/_id/lesson/index.vue",
+    "chunkName": "pages/admin/orders/_id/lesson/index",
+    "_name": "_23a98f3e"
+  },
+  {
+    "name": "admin-service-id-edit",
+    "path": "/admin/service/:id/edit",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/_id/edit/index.vue",
+    "chunkName": "pages/admin/service/_id/edit/index",
+    "_name": "_2c05b568"
+  },
+  {
+    "name": "admin-service-id-lesson-content",
+    "path": "/admin/service/:id/lesson-content",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/_id/lesson-content/index.vue",
+    "chunkName": "pages/admin/service/_id/lesson-content/index",
+    "_name": "_54e83402"
+  },
+  {
+    "name": "admin-service-id-lesson-price",
+    "path": "/admin/service/:id/lesson-price",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/_id/lesson-price/index.vue",
+    "chunkName": "pages/admin/service/_id/lesson-price/index",
+    "_name": "_4e260052"
+  },
+  {
+    "name": "admin-service-id-sale",
+    "path": "/admin/service/:id/sale",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/service/_id/sale/index.vue",
+    "chunkName": "pages/admin/service/_id/sale/index",
+    "_name": "_184c1f65"
+  },
+  {
+    "name": "admin-students-id-detail",
+    "path": "/admin/students/:id/detail",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/_id/detail/index.vue",
+    "chunkName": "pages/admin/students/_id/detail/index",
+    "_name": "_73bf2744"
+  },
+  {
+    "name": "admin-videos-id-create",
+    "path": "/admin/videos/:id/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/videos/_id/create/index.vue",
+    "chunkName": "pages/admin/videos/_id/create/index",
+    "_name": "_32c25b6f"
+  },
+  {
+    "name": "admin-videos-id-edit",
+    "path": "/admin/videos/:id/edit",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/videos/_id/edit/index.vue",
+    "chunkName": "pages/admin/videos/_id/edit/index",
+    "_name": "_298564fd"
+  },
+  {
+    "name": "admin-materials-id-histories-id_list",
+    "path": "/admin/materials/:id/histories/:id_list",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/materials/_id/histories/_id_list.vue",
+    "chunkName": "pages/admin/materials/_id/histories/_id_list",
+    "_name": "_bdee9e78"
+  },
+  {
+    "name": "admin-students-id-detail-package_id",
+    "path": "/admin/students/:id/detail/:package_id",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/_id/detail/_package_id/index.vue",
+    "chunkName": "pages/admin/students/_id/detail/_package_id/index",
+    "_name": "_56520e88"
+  },
+  {
+    "name": "admin-students-id-detail-package_id-create",
+    "path": "/admin/students/:id/detail/:package_id/create",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/_id/detail/_package_id/create/index.vue",
+    "chunkName": "pages/admin/students/_id/detail/_package_id/create/index",
+    "_name": "_3e035339"
+  },
+  {
+    "name": "admin-students-id-detail-package_id-edit-lesson_id",
+    "path": "/admin/students/:id/detail/:package_id/edit/:lesson_id?",
+    "component": "/media/ngoctusoftware/Data/Docker/Dự án - Trong tre pro/trong_tre_pro_admin_project/pages/admin/students/_id/detail/_package_id/edit/_lesson_id.vue",
+    "chunkName": "pages/admin/students/_id/detail/_package_id/edit/_lesson_id",
+    "_name": "_dd382b44"
+  }
+]
