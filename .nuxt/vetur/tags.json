@@ -44,6 +44,9 @@
   "InputFieldSuneditor": {
     "description": "Auto imported from components/inputField/Suneditor.vue"
   },
+  "ServiceDetailServiceInfo": {
+    "description": "Auto imported from components/service/DetailServiceInfo.vue"
+  },
   "CardItem": {
     "description": "Auto imported from components/card/CardItem.vue"
   },
@@ -64,9 +67,6 @@
   },
   "CardTeacherTrainingUsers": {
     "description": "Auto imported from components/card/CardTeacherTrainingUsers.vue"
-  },
-  "ServiceDetailServiceInfo": {
-    "description": "Auto imported from components/service/DetailServiceInfo.vue"
   },
   "TitleHeader": {
     "description": "Auto imported from components/title/TitleHeader.vue"
